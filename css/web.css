@@ -1,13 +1,9 @@
 body {
     color:#333;
-    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
     font-size:14px;
 }
-
-h1 {font-size:2.5em;} 
-h2 {font-size:2em;} 
-h3 {font-size:1.5em;background-color:#fff;padding:0;} 
-h4 {font-size:1.2em;} 
 
 .subtitle {
     color:#999;
